@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is [Your Name], and I'm a beginner developer. Programming is a hobby 
+My name is SlojnoTorsher (or Vladimir if you want), and I'm a beginner developer. Programming is a hobby 
 for me — one that is gradually growing into something more.
 
 ## 🧭 About Me
@@ -25,9 +25,6 @@ from simple algorithms to modern machine learning models.
 
 ## 📫 Get in Touch
 
-- Email: [your email]
-- Telegram: [your telegram]
-
----
+- Email: vovka131204@gmail.com
 
 Thanks for stopping by! 🚀
